@@ -4,7 +4,7 @@ Three-tier campus network (core, distribution, access) across two offices,
 with wireless, voice and internet edge. Built in Cisco Packet Tracer.
 Based on Jeremy's IT Lab CCNA Mega Lab; configured and tested by me.
 
-![Topology](topology.png)
+![Topology](CCNA Megalab.png)
 
 ## Design
 - Core: CSW1, CSW2
