@@ -25,5 +25,6 @@ Based on Jeremy's IT Lab CCNA Mega Lab; configured and tested by me.
 
 
 ## Files
-- `CCNA-Mega-Lab.pkt`: the lab
-- `configs/`: device running-configs
+- `CCNA MegaLab.pka`: the lab file (open with Cisco Packet Tracer)
+- `CCNA MegaLab.png`: topology screenshot
+- `*_running-config.txt`: device running-configs (R1, CSW1, CSW2, DSW-A1/A2, DSW-B1/B2)
